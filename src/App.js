@@ -10,7 +10,9 @@ function Message() {
     <input type='email' value={emailInput} placeholder='Your Email Address' ></input>
     <br></br>
     <br></br>
+    
     <textarea value='' placeholder='Write Your Message...'/>
+    <h1>Some Changes</h1>
   </form>);
 }
 
